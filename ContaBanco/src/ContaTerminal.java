@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
+        // Criando uma instancia da classe Scanner()
         Scanner scan = new Scanner(System.in);
 
         String nomeCliente;
